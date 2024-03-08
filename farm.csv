@@ -1,0 +1,79 @@
+﻿applicant_name,applicant_id,applicant_village,applicant_district,applicant_phone,product,Distance_to_Rental_Locations
+John Doe,1234,TestVille,TestDistrict,1234567890,Seeder,15
+Surya,5678,Kallakurichi,Kallakurichi,9876543210,Harrow,35
+Ravindran,3421,Tirukattupalli,Tiruchirappalli,7771112223,Plough,22
+Sophronia,9851,Muthupettai,Thiruvarur,8765432109,Weeder,18
+Xavier,9876,Kizhakku Pudur,Coimbatore,7654321098,Plough,23
+Shanmuga Priya,1452,Pakkam,Vellore,7890123456,Plough,10
+Alexandria,5555,Nellikuppam,Cuddalore,8765432101,Seeder,27
+Maverick,7856,Chinnasalem,Villupuram,9876543211,Cultivator,12
+Santiago,6543,Nagapattinam,Nagapattinam,7345678901,Rice Transplanter,28
+Zephyr,1042,Maraimalainagar,Kanchipuram,9876543210,Hand Hoe,20
+Gertrude,5432,Kovilpatti,Thoothukudi,9876543210,Tractor,25
+FarmerX,9876,Ruralville,Farmland,1234567890,Tiller,13.5
+Wildflower,1111,Meadowbrook,Wilderness,9876543210,Hoe,10.5
+Jaxon,2468,Riverbend,Riverside,8765432100,Seeder,15.5
+Haruko,1234,Sunflower Valley,Sunflower County,9876543210,Harrow,17
+Moonshadow,9876,Silent Woods,Shadowland,8765432109,Electric Scythe,21.7
+Winterhawk,3698,Snowy Peaks,Frostvale,7890123456,Plough,15.8
+Rustic Willow,4567,Green Valley,Nature Town,7654321098,Rake,18.3
+Starlight,1001,Moonbeam,Stardust City,8765432102,Seed Drill,19.5
+Midnight Thunder,2345,Blackwood Forest,Darkshire,8901234567,Brush Cutter,22.6
+Saffron Rain,7890,Serenity Meadows,Tranquil Valley,9876543210,Corn Harvester,24.8
+Ocean Breeze,1357,Seashell Cove,Seaside County,9876543210,Combine Harvester,28.3
+Mystic Sunflower,9876,Enchanted Grove,Magic Kingdom,8765432101,Cultivator,26.4
+Whispering Willow,2468,Misty Meadows,Fogwood,1234567890,Hoe,14.2
+dharmaraj,5555,Stormy Ridge,Thunder Valley,9012345678,Hand Plow,27.6
+arikaran,5664,vedaraniyam,nagapattinam,5454546474,Sprayers,12
+murugan,4545,trichy,Tiruchirappalli,465465478,Plough,45
+Graceshon,4686,nagercoil,Kanyakumari,8965689124,Rake,10
+balaji,4556,palayamkottai,tirunelveli,9585163521,spade,15
+rajappan,7894,ammapettai,thanjavur,8124196532,Axe,20
+vignesh,4596,alathur,perambulur,8124201563,Sickle,5
+tamil,8912,urapakkam,chengalpattu,9047170550,Hose,15
+dhanush,7412,soorapalllam,pattukottai,7894561230,baler,25
+joel,1256,adhanur,thanjavur,1237945564,hand Push seeder,30
+mukesh,4589,edappadi,salem,4561237890,tractor,35
+gokul,1569,karsert,madurai,8965964545,Harrow,15
+Lakshmi Priya,1234,Mettupalayam,Coimbatore,7654321098,Combine harvester,35
+Sundar,4567,Papanasam,Thanjavur,9876543210,Disc Harrow,10
+Rajeshwari,7890,Dharapuram,Tiruppur,8765432109,Plough,15
+Shanmugapriya,9876,Chinnasalem,Villupuram,7654321987,Seeder,28
+Anirudh,2468,Kizhapuliyur,Cuddalore,9786543210,Cultivator,15
+Sakshi,7654,Kallakkurichi,Kallakurichi,9876540123,Rake,18
+Shakti,12345,Malaiyur,Sivaganga,9876543210,Hand Plough,22
+Rocky,1111,Thiruvaiyaru,Thanjavur,9876543210,Seeder,40
+Kalyani,6666,Marthandam,Kanyakumari,9876543210,Hoe,12
+Aarav,10000,Kalakkad,Tirunelveli,9876543210,Hand Hoe,20
+Kamalakannan,5555,Thalavaipatti,Theni,9876543210,Plough,25
+Surya,6543,Periyakulam,Theni,9876543210,Ridger,30
+Sparrow,24682,Poompuhar,Nagapattinam,9876543210,Transplanter,17.5
+Kiara,1234,Kovilpatti,Thoothukudi,9876543210,Harrow,23
+Sahasra,2468,Sivarakottai,Madurai,8765432109,Plough,14
+Rajeshwari,7777,Puliyur,Vellore,9876543210,Harrow,19.5
+Rishabh,9999,Azhukkuvur,Tiruchirappalli,9876543210,Mulcher,27
+Jessica,24601,Bodinayakkanur,Theni,9876543210,Cultivator,33
+Santiago,13579,Karaikudi,Sivaganga,9876543210,Seeder,15
+Fiona,9876,Kilakarai,Ramanathapuram,9876543210,Hand Hoe,22.5
+Shanmugam,1234,Namakkal,Namakkal,7654321987,Plow,35
+Imogen,4567,Kovilpatti,Thoothukudi,9876543210,Seeder,22
+Xavier,7890,Thandalam,Kanchipuram,9012345678,Tiller,15
+Rohit,8751,Anbu Nagar,Sivaganga,8765432109,Cultivator,18
+Krishna,123,Kottur,Coimbatore,8765432109,Rake,28
+Surya,9876,Thirumangalam,Madurai,9876543210,Combine harvester,10
+Dakota,6543,Kadalundi,Kozhikode,7890123456,Mower,42.5
+Lakshmi,5690,Taragampatti,Salem,9087654321,Hoe,40
+Sakshi,9999,Kovilpatti,Thoothukudi,9776543210,Cotton picker,12.5
+Neha,4568,Thirunageswaram,Kumbakonam,7301548962,Broadcast Seeder,20.5
+Rajeshwari,7483,Perungalathur,Chennai,8765432109,Plow,25
+Rakesh,9876,Gobichettipalayam,Erode,9876543210,Harrow,30
+Xanthe,2356,Karaikudi,Sivaganga,7890123456,Plow,38.7
+Ananya,8765,Manaparai,Trichy,9876543210,Rice Transplanter,17.3
+Santiago,5432,Chennimalai,Erode,8765432109,Cultivator,22
+Hermione,4567,Azhagappapuram,Kanniyakumari,9876543210,Sprayer,15.5
+Percival,2468,Semmedu,Namakkal,7654321098,Bush Hog,36.2
+Astrid,1234,Vellore,Vellore,9876543210,Seeder,27.8
+Gwendolyn,7890,Pudupet,Chengalpattu,8765432109,Subsoiler,33.5
+Pradeep,123456,Thuppaki,Madurai,9876543210,Hedge Trimmer,23.4
+Melisande,543210,Sirkazhi,Mayiladuthurai,9876543210,Combine Harvester,28.9
+Dakota,98765,Mettur,Salem,7654321987,Harvest,21.4
